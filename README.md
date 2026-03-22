@@ -1,4 +1,4 @@
-# jQuery Project Showcase
+# jQuery Thumbnail Gallery - Project Showcase
 
 ## Overview
 
