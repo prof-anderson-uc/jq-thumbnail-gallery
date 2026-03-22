@@ -1,2 +1,2 @@
-# jq-thumbnail-gallery
-Starting point for the thumbnail gallery coding exercise
+# jQ-portfolio-gallery-FINAL
+jQuery Portfolio Image Gallery
